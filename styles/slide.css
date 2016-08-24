@@ -1,0 +1,14 @@
+#div1{
+    width: 60px;
+    height: auto;
+    margin:0 auto;
+    background: #e4e4e4;
+    cursor: pointer;
+}
+#div2{
+    width: 200px;
+    height: 0;
+    overflow: hidden;
+    margin: 0 auto;
+    background: #e9e9e9;
+}
